@@ -1,0 +1,17 @@
+td{
+    text-align: center;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+nav{
+    background-color:blanchedalmond;
+    height: 40px;
+    padding-top: 15px;
+}
+a{
+    text-decoration: none;
+    color:rgb(192, 122, 9);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 18px;
+}

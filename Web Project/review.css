@@ -1,0 +1,17 @@
+nav{
+    background-color:blanchedalmond;
+    height: 40px;
+    padding-top: 15px;
+}
+a{
+    text-decoration: none;
+    color:rgb(192, 122, 9);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 18px;
+}
+fieldset{
+    width: 90%;
+    text-align: center;
+    background-color:rgb(131, 127, 121);
+
+}
